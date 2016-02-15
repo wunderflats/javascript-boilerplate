@@ -1,0 +1,12 @@
+{
+    "operations": {
+        "discard": [
+            "flower.json"
+        ],
+        "parse": [
+            "readme.md",
+            "package.json",
+            "test/index.js"
+        ]
+    }
+}
