@@ -1,5 +1,5 @@
 {
-  "name": "@wunderflats/{{ packageName }}",
+  "name": "@wunderflats/{{ name }}",
   "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/wunderflats/{{ packageName }}.git"
+    "url": "https://bitbucket.org/wunderflats/{{ name }}.git"
   },
   "devDependencies": {
     "chai": "^3.5.0",
