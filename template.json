@@ -1,0 +1,7 @@
+{
+  "parse": [
+    "README.md",
+    "package.json",
+    "test/index.js"
+  ]
+}
