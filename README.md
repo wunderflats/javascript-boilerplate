@@ -1,1 +1,1 @@
-# {{ name }}
+# javascript-boilerplate
